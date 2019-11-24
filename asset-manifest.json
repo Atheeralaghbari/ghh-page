@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ghh-page/static/css/main.0b7834a3.chunk.css",
+    "main.js": "/ghh-page/static/js/main.b2fdcbf1.chunk.js",
+    "main.js.map": "/ghh-page/static/js/main.b2fdcbf1.chunk.js.map",
+    "runtime-main.js": "/ghh-page/static/js/runtime-main.c41d6a78.js",
+    "runtime-main.js.map": "/ghh-page/static/js/runtime-main.c41d6a78.js.map",
+    "static/js/2.82edb450.chunk.js": "/ghh-page/static/js/2.82edb450.chunk.js",
+    "static/js/2.82edb450.chunk.js.map": "/ghh-page/static/js/2.82edb450.chunk.js.map",
+    "index.html": "/ghh-page/index.html",
+    "precache-manifest.218373f064d006bab7bd64907e581c4d.js": "/ghh-page/precache-manifest.218373f064d006bab7bd64907e581c4d.js",
+    "service-worker.js": "/ghh-page/service-worker.js",
+    "static/css/main.0b7834a3.chunk.css.map": "/ghh-page/static/css/main.0b7834a3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c41d6a78.js",
+    "static/js/2.82edb450.chunk.js",
+    "static/css/main.0b7834a3.chunk.css",
+    "static/js/main.b2fdcbf1.chunk.js"
+  ]
+}
